@@ -3,7 +3,7 @@
 
 This JavaScript Plugin will generate sonar cloud html report (SonarQube Scan) for defectdojo and you can easlly import that report to DefectDojo Api.
 
-##Step
+============= Step ===============
 1) Clone Repositry 
 2) Setup Node Package by using npm install.
 3) Run Node index.js in cmd
